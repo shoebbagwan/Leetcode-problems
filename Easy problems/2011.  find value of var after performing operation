@@ -1,0 +1,9 @@
+class Solution:
+    def finalValueAfterOperations(self, nums: List[str]) -> int:
+        x = 0
+        for n in nums:
+            if "++" in n:
+                x+= 1
+            else:
+                x-= 1
+        return x       
