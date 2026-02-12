@@ -1,3 +1,4 @@
+# In this problem we have an list and we are finding the continuous addition of the elements that are present in the list
 class Solution:
     def runningSum(self, nums: List[int]) -> List[int]:
         arr = []
