@@ -7,12 +7,14 @@
 | [0001-two-sum](https://github.com/shoebbagwan/Leetcode-problems/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/shoebbagwan/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shoebbagwan/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0209-minimum-size-subarray-sum](https://github.com/shoebbagwan/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/shoebbagwan/Leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0845-longest-mountain-in-array](https://github.com/shoebbagwan/Leetcode-problems/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/shoebbagwan/Leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shoebbagwan/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/shoebbagwan/Leetcode-problems/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
@@ -44,4 +46,12 @@
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/shoebbagwan/Leetcode-problems/tree/master/0845-longest-mountain-in-array) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shoebbagwan/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shoebbagwan/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
