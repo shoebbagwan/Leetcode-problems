@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shoebbagwan/Leetcode-problems/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/shoebbagwan/Leetcode-problems/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/shoebbagwan/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/shoebbagwan/Leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Enumeration
 |  |
@@ -54,4 +56,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shoebbagwan/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/shoebbagwan/Leetcode-problems/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
