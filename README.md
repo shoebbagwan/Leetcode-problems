@@ -37,6 +37,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/shoebbagwan/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0845-longest-mountain-in-array](https://github.com/shoebbagwan/Leetcode-problems/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/shoebbagwan/Leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shoebbagwan/Leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/shoebbagwan/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/shoebbagwan/Leetcode-problems/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
