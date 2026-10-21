@@ -1,6 +1,6 @@
 
 <!---LeetCode Topics Start-->
-# LeetCode Topic
+# LeetCode Topics
 ## Array
 |  |
 | ------- |
