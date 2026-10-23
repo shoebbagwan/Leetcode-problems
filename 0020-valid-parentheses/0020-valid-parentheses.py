@@ -4,11 +4,11 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        pairs = {")": "(", "]": "[", "}": "{"}
+        group = {")": "(", "]": "[", "}": "{"}
         stack = []
         for ch in s:
-            if ch in pairs:
-                if not stack or stack.pop() != pairs[ch]:
+            if ch in group:
+                if not stack or stack.pop() != group[ch]:
                     return False
             else:
                 stack.append(ch)
