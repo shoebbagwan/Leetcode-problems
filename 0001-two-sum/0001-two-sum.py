@@ -10,4 +10,4 @@ class Solution(object):
             if target - n in seen:
                 return [seen[target - n], i]
             seen[n] = i
-        return []
+        return []        
